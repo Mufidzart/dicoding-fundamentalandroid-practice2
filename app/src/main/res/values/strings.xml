@@ -1,5 +1,5 @@
 <resources>
-  <string name="app_name">Mufidz Intent</string>
+  <string name="app_name">Mufidz Intent App</string>
   <string name="pindah_activity">Pindah Activity</string>
   <string name="pindah_activity_dengan_data">Pindah Activity dengan Data</string>
   <string name="pindah_activity_dengan_object">Pindah Activity dengan Object</string>
